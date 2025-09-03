@@ -2,7 +2,7 @@
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b7169107-7cb1-4a93-b6da-219e2ad48ecc" /> 
 
 
-นี่คือโปรแกรม YouTube-downloader ที่ใช้สำหรับ [โหลดวิดีโอจาก Youtube MP 4 Full HD และ MP3]
+นี่คือโปรแกรม YouTube-downloader ที่ใช้สำหรับ โหลดวิดีโอจาก Youtube MP 4 Full HD และ MP3
 
 ## 📜 License & Usage
 
