@@ -25,6 +25,6 @@ This is a YouTube downloader program for downloading YouTube videos in MP4, Full
 
 ## 📥 How to Install and use
 
-* ** 1. Go to the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-* ** 2. Download the latest version `YouTube-downloader.exe` file.
-* ** 3. Run the program to use it immediately.
+* **1.** Go to the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
+* **2.** Download the latest version `YouTube-downloader.exe` file.
+* **3.** Run the program to use it immediately.
