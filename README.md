@@ -7,13 +7,13 @@
 ## 📜 License & Usage
 
 * **สำหรับโปรแกรม (Executable):** คุณสามารถดาวน์โหลดและใช้งานโปรแกรมเวอร์ชันล่าสุดได้ฟรีจากหน้า **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-* **สำหรับซอร์สโค้ด (Source Code):** ซอร์สโค้ดใน repository นี้อยู่ภายใต้การสงวนลิขสิทธิ์ทั้งหมด (All Rights Reserved) มีไว้เพื่อการอ้างอิงและการศึกษาเท่านั้น **ไม่อนุญาต**ให้นำไปคัดลอก ดัดแปลง แก้ไข หรือเผยแพร่ต่อในทุกกรณี
+* **สำหรับซอร์สโค้ด (Source Code):** ซอร์สโค้ดใน repository นี้อยู่ภายใต้การสงวนลิขสิทธิ์ทั้งหมด (All Rights Reserved) มีไว้เพื่อการอ้างอิงและการศึกษาเท่านั้น **ไม่อนุญาต ให้นำไปคัดลอก ดัดแปลง แก้ไข หรือเผยแพร่ต่อในทุกกรณี**
 
 ## 📥 วิธีติดตั้งและใช้งาน
 
-* ** 1.  ไปที่หน้า **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-* ** 2.  ดาวน์โหลดไฟล์ `YouTube-downloader.exe` จากเวอร์ชันล่าสุด
-* ** 3.  รันโปรแกรมเพื่อใช้งานได้ทันที
+* **1.**  ไปที่หน้า **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
+* **2.**  ดาวน์โหลดไฟล์ `YouTube-downloader.exe` จากเวอร์ชันล่าสุด
+* **3.**  รันโปรแกรมเพื่อใช้งานได้ทันที
 
 ## English
 This is a YouTube downloader program for downloading YouTube videos in MP4, Full HD, and MP3.
@@ -21,7 +21,7 @@ This is a YouTube downloader program for downloading YouTube videos in MP4, Full
 ## 📜 License & Usage
 
 * **For the Executable Program:** You can download and use the latest version for free from the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-* **For the Source Code:** The source code in this repository is under All Rights Reserved and is for reference and educational purposes only. **Copying, modifying, editing, or redistribution is prohibited in any way.
+* **For the Source Code:** The source code in this repository is under All Rights Reserved and is for reference and educational purposes only. **Copying, modifying, editing, or redistribution is prohibited in any way.**
 
 ## 📥 How to Install and use
 
