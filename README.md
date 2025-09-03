@@ -2,7 +2,7 @@
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b7169107-7cb1-4a93-b6da-219e2ad48ecc" /> 
 
 ## Thai
-นี่คือโปรแกรม YouTube-downloader ที่ใช้สำหรับ โหลดวิดีโอจาก Youtube MP 4 Full HD และ MP3
+* **นี่คือโปรแกรม YouTube-downloader ที่ใช้สำหรับ โหลดวิดีโอจาก Youtube MP 4 Full HD และ MP3
 
 ## 📜 License & Usage
 
@@ -11,20 +11,20 @@
 
 ## 📥 วิธีติดตั้งและใช้งาน
 
-1.  ไปที่หน้า **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-2.  ดาวน์โหลดไฟล์ `YouTube-downloader.exe` จากเวอร์ชันล่าสุด
-3.  รันโปรแกรมเพื่อใช้งานได้ทันที
+* ** 1.  ไปที่หน้า **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
+* ** 2.  ดาวน์โหลดไฟล์ `YouTube-downloader.exe` จากเวอร์ชันล่าสุด
+* ** 3.  รันโปรแกรมเพื่อใช้งานได้ทันที
 
-### English
+## English
 This is a YouTube downloader program for downloading YouTube videos in MP4, Full HD, and MP3.
 
-### 📜 License & Usage
+## 📜 License & Usage
 
 * **For the Executable Program:** You can download and use the latest version for free from the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
 * **For the Source Code:** The source code in this repository is under All Rights Reserved and is for reference and educational purposes only. **Copying, modifying, editing, or redistribution is prohibited in any way.
 
-### 📥 How to Install and use
+## 📥 How to Install and use
 
-1. Go to the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
-2. Download the latest version `YouTube-downloader.exe` file.
-3. Run the program to use it immediately.
+* ** 1. Go to the **[Download](https://github.com/cybercatakna/youtube-downloader-app/releases/download/Version-auto-update/YouTube-downloader.exe)**
+* ** 2. Download the latest version `YouTube-downloader.exe` file.
+* ** 3. Run the program to use it immediately.
