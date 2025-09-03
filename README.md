@@ -20,11 +20,11 @@ This is a YouTube downloader program for downloading YouTube videos in MP4, Full
 
 ### 📜 License & Usage
 
-* **For the Executable Program:** You can download and use the latest version for free from the **[Releases] page (https://github.com/cybercatakna/youtube-downloader-app/releases)**
+* **For the Executable Program:** You can download and use the latest version for free from the **[Releases](https://github.com/cybercatakna/youtube-downloader-app/releases)**
 * **For the Source Code:** The source code in this repository is under All Rights Reserved and is for reference and educational purposes only. **Copying, modifying, editing, or redistribution is prohibited in any way.
 
 ### 📥 How to Install
 
-1. Go to the **[Releases] page (https://github.com/cybercatakna/youtube-downloader-app/releases)**
+1. Go to the **[Releases](https://github.com/cybercatakna/youtube-downloader-app/releases)**
 2. Download the latest version `YouTube-downloader.exe` file.
 3. Run the program to use it immediately.
